@@ -1,0 +1,18 @@
+Origin: Glyph
+Label: Glyph
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Glyph apt repository
+Date: Thu, 16 Apr 2026 19:11:42 +0000
+MD5Sum:
+ 008419ee59b83f2e7f0087fe9f144746 425 main/binary-amd64/Packages
+ 58bb6559691de1b45843ed520bbf529d 349 main/binary-amd64/Packages.gz
+ e6fd1b7f89bfc0accc86e40b2ba83c98 425 main/binary-arm64/Packages
+ 770d6d8b7a5b89da717e2c52db8fae24 349 main/binary-arm64/Packages.gz
+SHA256:
+ b4b323b3978d69756c538a4caa5aaf54f6642ec30029c2862f75ae7c85f255ad 425 main/binary-amd64/Packages
+ 2b2dd48910d4c1fc284a67a3a07b314203b7c46340c648d3d84dd88a0eec3dee 349 main/binary-amd64/Packages.gz
+ 630520b59029a86019207f668611fbf3c52e2077c74a551f8a82a62d82980ce9 425 main/binary-arm64/Packages
+ f87eb9582ccf7e90fc3c49248ecd7e6bc27f811389d44e79b9cf7ae85fd9bb8e 349 main/binary-arm64/Packages.gz
